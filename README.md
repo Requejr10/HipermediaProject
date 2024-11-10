@@ -23,4 +23,6 @@ I also added animation to the main photo and description to give the page some m
 
 Overall, the site uses these contrasts to make information readable and visually pleasing without causing eye strain.My goal was to create a design that was not only visually appealing but also provided a simple and enjoyable user experience.
 
+4. Figma link:
+https://www.figma.com/design/qNsQt0VFMB33d0Aj5f68Dz/Untitled?node-id=2-184&node-type=section&t=i1Q84ycXVFLpWZfI-0
 
