@@ -251,7 +251,7 @@ display: flex;
     max-width: 1000px;
 }
 .about h1 {
-    font-size: 48px; /* Tamaño más grande para el h1 */
+    font-size: 48px; 
     
     margin-bottom: 30px;
 }
@@ -268,12 +268,12 @@ display: flex;
     flex: 1;
 }
 .about-languages li i.bx-meh-alt {
-    color: aqua;      /* Cambia el color a aqua */
-    font-size: 1.8em; /* Ajusta el tamaño del ícono, puedes cambiar el valor */
+    color: aqua;      
+    font-size: 1.8em; 
 }
 .about-languages li i.bx-home-alt {
-    color: aqua;      /* Cambia el color a aqua */
-    font-size: 1.8em; /* Ajusta el tamaño del ícono, puedes cambiar el valor */
+    color: aqua;      
+    font-size: 1.8em; 
 }
 
 .about-skills {
@@ -293,9 +293,9 @@ display: flex;
 
 .about-languages ul li{
     display: flex;
-    align-items: center;  /* Alinea el ícono y el texto verticalmente */
-    gap: 10px;            /* Espacio entre el ícono y el texto */
-    margin-bottom: 120px;  /* Reduce el espacio vertical entre los elementos */
+    align-items: center;  
+    gap: 10px;            
+    margin-bottom: 120px;  
     font-size: 18px;
 }
 
@@ -382,7 +382,7 @@ display: flex;
     left: 0;
     width: 100%;
     height: 1px;
-    background-color: #21272f; /* Cambia el color de la línea en la parte azul */
+    background-color: #21272f;
 }
 .curriculum .profile-pic {
     background-image: url('foro.jpg');
